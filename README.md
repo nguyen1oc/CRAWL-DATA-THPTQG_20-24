@@ -5,6 +5,7 @@ Chưa bao gồm điểm phúc khảo.
 
 **Tải 
 - [Google Drive (cập nhật 19/04/2025)](https://drive.google.com/drive/u/3/folders/147PK6BOmZavm7woYxCOOkw7iEKd6P7YZ)
+- [Google Drive (cập nhật 26/04/2025)](https://drive.google.com/drive/folders/16LW1zMgF3VDEy5pdMV_2je_SBJAajkOk?usp=sharing)
 
 **Trang web nguồn dữ liệu:**  
 `https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-thi-tot-nghiep-thpt/{year}/{sbd}.html`
