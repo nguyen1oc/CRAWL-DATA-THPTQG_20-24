@@ -8,8 +8,8 @@ Chưa bao gồm điểm phúc khảo.
 - [Google Drive (cập nhật 26/04/2025)](https://drive.google.com/drive/folders/16LW1zMgF3VDEy5pdMV_2je_SBJAajkOk?usp=sharing)
 
 **Trang web nguồn dữ liệu:**  
-`https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-thi-tot-nghiep-thpt/{year}/{sbd}.html`
-`https://diemthi.vnexpress.net/tra-cuu-dai-hoc`
+- `https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-thi-tot-nghiep-thpt/{year}/{sbd}.html`
+- `https://diemthi.vnexpress.net/tra-cuu-dai-hoc`
 
 > Hai chữ số đầu tiên của số báo danh là mã Hội đồng thi (tỉnh/thành phố) của thí sinh dự thi.
 
